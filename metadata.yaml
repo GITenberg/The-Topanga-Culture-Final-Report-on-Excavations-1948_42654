@@ -1,0 +1,36 @@
+_repo: The-Topanga-Culture-Final-Report-on-Excavations-1948_42654
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Treganza, Adan E. (Adan Eduardo)
+    aliases:
+    - Treganza, Adan Eduardo
+    - Treganza, A. E. (Adan Eduardo)
+    birthdate: 1916
+    deathdate: 1968
+    gutenberg_agent_id: '41797'
+    url: http://www.gutenberg.org/2009/agents/41797
+  - agent_name: Bierman, Agnes
+    alias: Bierman, A.
+    gutenberg_agent_id: '41798'
+    url: http://www.gutenberg.org/2009/agents/41798
+description: ''
+gutenberg_issued: '2013-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42654'
+  lccn: a58009533
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: University of California Anthropological Records, Vol. 20, No. 2
+subjects:
+- !lcsh 'Topanga Canyon (Calif.)'
+- !lcsh 'California -- Antiquities'
+- !lcc 'E011'
+title: 'The Topanga Culture: Final Report on Excavations, 1948'
+url: http://www.gutenberg.org/ebooks/42654
